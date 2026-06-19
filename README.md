@@ -278,8 +278,3 @@ Through this project, I learned how to:
 - **Build a small web frontend** using Flask or FastAPI so the same logic is usable in a browser, with S3 as the shared data store across multiple clients.
 - **Add unit tests** with `pytest` covering the file I/O, validation logic, and S3 client (mocked with `moto`).
 
----
-
-## Author
-
-**Your Name** — built as a final project for an AWS + Python lab.
